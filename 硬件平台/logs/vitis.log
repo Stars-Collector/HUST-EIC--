@@ -1,0 +1,96 @@
+09:23:48 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+09:23:48 INFO  : Marking the target connection as default Local
+09:23:48 INFO  : Marking the target connection as default Linux Agent
+09:23:48 INFO  : Marking the target connection as default XRTServer
+09:23:48 INFO  : Marking the target connection as default LinuxEmulation
+09:23:48 INFO  : Marking the target connection as default QEMU
+09:23:48 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+09:23:48 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+09:23:50 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_117361924492861329792845
+09:23:50 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173613069225101900445412 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_117361924492861329792845\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+09:23:50 INFO  : Embedded Template List generated successfully
+09:23:50 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\repo.py -st   D:\Xilinx\Vitis\2023.2\data\embeddedsw && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+09:23:52 INFO  : Successfully created repository data at D:\Vivado_Files\parallel_IO
+09:23:52 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173615786051303386783308 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+09:23:53 INFO  : Embedded Template List generated successfully
+09:23:53 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117366466875666260216538 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+09:23:53 INFO  : Embedded Template List generated successfully
+09:24:08 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173615165585444787543289 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+09:24:08 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO\Vitis_Parallel
+19:22:07 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+19:22:07 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+19:22:07 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+19:22:07 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+19:22:09 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_117366275723828418305273
+19:22:09 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117369719124127797792631 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_117366275723828418305273\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+19:22:09 INFO  : Embedded Template List generated successfully
+19:22:09 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117365514638484629620411 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+19:22:10 INFO  : Embedded Template List generated successfully
+19:22:10 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117366869629083833190442 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+19:22:10 INFO  : Embedded Template List generated successfully
+19:22:40 INFO  : connection terminated
+19:22:40 INFO  : connection terminated
+19:22:40 INFO  : scheduling shutdown timer for 2 seconds ...
+19:22:42 INFO  : Terminating Vitis C++ Server
+19:22:42 INFO  : Vitis C++ Server terminated
+13:57:09 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+13:57:09 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+13:57:09 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+13:57:09 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_11736464947669887706047
+13:57:09 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117363742458755748523284 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_11736464947669887706047\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:10 INFO  : Embedded Template List generated successfully
+13:57:10 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\repo.py -st  D:\Xilinx\Vitis\2023.2\data\embeddedsw && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:12 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173613428198715818123002
+13:57:12 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117362602173913409478804 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173613428198715818123002\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:12 INFO  : Embedded Template List generated successfully
+13:57:12 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117365794845415866182585 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:13 INFO  : Embedded Template List generated successfully
+13:57:13 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117362215607199507010555 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:13 INFO  : Embedded Template List generated successfully
+13:57:13 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\repo.py -st  D:\Xilinx\Vitis\2023.2\data\embeddedsw && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:14 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_117367454073153205503259
+13:57:14 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117361920264312217655161 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_117367454073153205503259\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:15 INFO  : Embedded Template List generated successfully
+13:57:46 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117367595265427943037477 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:46 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+13:57:46 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+13:57:46 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+13:57:46 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+13:57:46 INFO  : Embedded Template List generated successfully
+13:57:46 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173612605094991671220022 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:47 INFO  : Embedded Template List generated successfully
+13:57:47 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117364731171904653581987 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+13:57:47 INFO  : Embedded Template List generated successfully
+13:57:55 INFO  : connection terminated
+13:57:55 INFO  : connection terminated
+13:57:55 INFO  : scheduling shutdown timer for 2 seconds ...
+13:57:57 INFO  : Terminating Vitis C++ Server
+13:57:57 INFO  : warning: stdin closed
+13:57:57 INFO  : Vitis C++ Server terminated
+21:50:18 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+21:50:18 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+21:50:18 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+21:50:20 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173611140073621952016740
+21:50:20 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173613581067293049771841 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173611140073621952016740\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+21:50:20 INFO  : Embedded Template List generated successfully
+21:50:20 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173612035018909479474157 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+21:50:21 INFO  : Embedded Template List generated successfully
+21:50:21 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117361924152812472424330 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+21:50:21 INFO  : Embedded Template List generated successfully
+21:50:35 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173617921190153071774275 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+21:50:35 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO\Vitis_Parallel
+11:08:40 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+11:08:40 INFO  : created .gitignore file for the project D:\Vivado_Files\parallel_IO
+11:08:40 INFO  : updated workspace path: D:\Vivado_Files\parallel_IO
+11:08:42 INFO  : Successfully created repository data at C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173615209953064952353477
+11:08:42 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_117368669241526706483272 -r C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173615209953064952353477\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+11:08:43 INFO  : Embedded Template List generated successfully
+11:08:43 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173614711629759165246926 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+11:08:44 INFO  : Embedded Template List generated successfully
+11:08:44 INFO  : cmd.exe, /C, D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\activate.bat && python D:\Xilinx\Vitis\2023.2\data\embeddedsw\scripts\pyesw\\get_template_data.py -d C:\Users\11736\AppData\Local\Temp\rigel_lopper_1173617347463102058533113 -r D:\Vivado_Files\parallel_IO\.repo.yaml && D:\Xilinx\Vitis\2023.2\tps\win64\lopper-1.1.0\env\Scripts\deactivate.bat
+11:08:44 INFO  : Embedded Template List generated successfully
+11:09:23 INFO  : connection terminated
+11:09:23 INFO  : connection terminated
+11:09:23 INFO  : scheduling shutdown timer for 2 seconds ...
+11:09:25 INFO  : Terminating Vitis C++ Server
+11:09:26 INFO  : Vitis C++ Server terminated
